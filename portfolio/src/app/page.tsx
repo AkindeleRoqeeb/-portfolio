@@ -7,7 +7,7 @@ export default function Home() {
         Hello world! life man
       </h1>
       <h1 className="text-3xl font-bold bg-red-600 text-yellow-700">
-        Hello world! life man
+        Hello world! life
     </h1>
     </div>
   )
